@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NCL</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Welcome</string>
+    <string name="second_fragment_label">Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="sky">Sky</string>
+    <string name="bliss">Bliss</string>
+    <string name="escape">Escape</string>
+
+    <string name="hello_first_fragment">Welcome to Norwegian Cruise line \n\nExplore Your Cruise Vacation</string>
+    <string name="hello_second_fragment">Welcome to you. Arg: %1$s</string>
+</resources>
